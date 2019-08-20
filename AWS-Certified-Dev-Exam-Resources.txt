@@ -1,0 +1,11 @@
+AWS Certified Developer Exam Resources
+----------------------------------------
+
+"How To Pass The AWS Certified Developer Associate Exam"
+https://medium.com/faun/passing-the-aws-certified-developer-associate-exam-c83c894cb780 
+
+
+"How did I Pass AWS Certified Developer Associate (AWS CDA) Exam?"
+https://www.whizlabs.com/blog/aws-certified-developer-associate-exam-review/
+
+
