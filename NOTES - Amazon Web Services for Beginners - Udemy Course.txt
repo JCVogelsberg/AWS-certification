@@ -1,0 +1,104 @@
+Amazon Web Services for Beginners
+-----------------------------------
+
+https://www.udemy.com/course/cloud-computing-with-amazon-web-services-part-1/learn/lecture/370228#overview
+
+ADVANTAGES
+- Cloud computing
+  * No upfront pymts
+  * Auto scalable
+  * Pay-as-you-go model (pay for bandwidth you use)
+
+
+-----------------------------------
+
+- Supports most operating systems
+  * RHEL, CentOS, Ubuntu, Debian, Fedora, Amazon Linux, Oracle 
+
+  * Amazon Route 53:
+    + translating names like www.example.com into the numeric IP addresses like 192.0.2.1 
+    + Amazon sez:
+      = "A reliable and cost-effective way to route end users to Internet applications"
+      = "A highly available and scalable cloud Domain Name System (DNS) web service."
+    + Name is a ref. to TCP or UDP port 53, where DNS server requests are addressed
+    + Route 53 also enables:
+      = AWS customers to route users to non-AWS infrastructure 
+      = Monitor the health of their application & its endpoints
+    + Amazon provides a service-level agreement of the service always being available at all times (100% available)
+    + Documentation: https://aws.amazon.com/route53/
+    + See also: my file "Amazon Route 53 - ELI5.txt"
+
+  * Amazon VPC: 
+    + Amazon Virtual Private Cloud
+    + Allows users to isolate sections of AWS for private use
+    + Provides more "granular" control over security
+
+-----------------------------------
+
+Storage & Content Delivery
+- Amazon S3
+  * S3 = "Simple Storage Service"
+  * Provides object storage through a web service interface
+  * The basic storage units of Amazon S3 are objects which are organized into buckets. 
+  * Each object is identified by a unique, user-assigned key
+  * Buckets can be managed using:
+    + The console provided by Amazon S3
+    + Programmatically using the AWS SDK
+    + With the Amazon S3 REST API
+  * Amazon S3 provides the option to host static HTML websites with index document support and error document support.
+  * Documentation: https://docs.aws.amazon.com/s3/index.html
+
+- Amazon Glacier
+  * Archival
+  * Cheaper than S3
+
+- Amazon CloudFront
+  * CDN 
+
+
+-----------------------------------
+
+DATABASE
+- Amazon RDS
+  * "Relational Database Service"
+  * Web service running "in the cloud" designed to simplify the setup, operation, & scaling of a relational database for use in applications
+  * Supports:
+    + MySQL
+    + MS SQL Server
+    + Oracle
+
+
+-----------------------------------
+
+DEPLOYMENT & MANAGEMENT
+- Amazon CloudWatch
+  * A monitoring service
+  * Monitor servers, storage, DNS, RDS DBs, billing
+  * ???
+
+- Amazon IAM
+  * "Identity Access Management"
+  * Manage users & groups
+  * ???
+
+
+-----------------------------------
+
+APP SERVICES
+- Amazon SES
+  * "Simple Email Service"
+  * Cloud-based email sending service 
+  * Designed to help digital marketers & app developers send marketing, notification, & transactional emails
+
+- Amazon SNS
+  * "Simple Notification Service"
+  * Web service that coordinates and manages the delivery or sending of messages to subscribing endpoints or clients
+  * There are two types of clients: publishers & subscribers (aka producers & consumers)
+  * ???
+
+
+-----------------------------------
+
+
+
+

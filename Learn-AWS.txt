@@ -1,0 +1,14 @@
+Learn AWS
+-----------
+
+A beginner's guide to learn Cloud Computing with AWS
+https://www.udemy.com/course/cloud-computing-with-amazon-web-services-part-1/learn/lecture/370228#overview
+
+
+Pass the AWS Certified Developer June 2019 exam
+https://www.udemy.com/aws-certified-developer-associate/learn/lecture/2230164#overview
+
+
+Specialty Learning Paths
+https://aws.amazon.com/training/paths-specialty/
+

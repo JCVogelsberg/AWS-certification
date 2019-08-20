@@ -1,0 +1,12 @@
+AMAZON ROUTE 53
+-----------------
+
+"Right now you are probably using the DNS server that your ISP provides. These are machines that look up "www.reddit.com", and yield the IP address, 65.121.208.139. This is one of the first things your browser does before it starts requesting pages and images from a site.
+
+You might be lucky and have a great ISP, but not all of us do. I don't. Now what happens when you enter a bad URL in your browser? I would imagine your ISP redirects you to some bullshit page of theirs that offers up some kind of weak search, maybe a load of ads. It probably doesn't just give you an 'address not found' page.
+
+Well, Amazon's DNS servers don't do that. Plus, they have created a good, reliable DNS service - they have a lot of experience and technical know-how regarding running lots of machines and maintaining uptime.
+
+You can use their DNS by setting your machines DNS server manually, instead of automatically accepting your ISPs servers."
+
+- u/vertebrate
