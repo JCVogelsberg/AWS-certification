@@ -9,3 +9,5 @@ https://medium.com/faun/passing-the-aws-certified-developer-associate-exam-c83c8
 https://www.whizlabs.com/blog/aws-certified-developer-associate-exam-review/
 
 
+"Earning Your AWS Certifications"
+https://insights.dice.com/2016/06/24/earning-your-aws-certifications/?ads_kw=AWS%20certifications
