@@ -1,0 +1,9 @@
+Amazon EC2
+-------------------------
+
+- First thing you need is a virtual server
+
+- 
+
+
+-------------------------
